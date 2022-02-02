@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Emergency4U</string>
+    <string name="copyright">Copyright &#169; Anonomos Gank 2022</string>
+    <string name="about_text">This application can help people in emergency to quickly find the nearest hospital for their further action.</string>
+    <string name="developer">Developer Detail:</string>
+    <string name="mainDeveloper">Muhammad Amirul Husaini Bin Asham (2019253538)</string>
+    <string name="assistanceDeveloper">Mohammad Hamzah Bin Othman Jama (2019252274)</string>
+    <string name="editor1">Ahmad Uzair Bin Azuka (2019256214)</string>
+    <string name="editor2">Ahmad Danial Bin Musana (2019627714)</string>
+    <string name="editor3">Muhammad Asyraf Bin Mohd Khazaai (2019476076)</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="myText"> <a href= "https://github.com/AmirulHusaini"> Link to Github </a> </string>
+</resources>
